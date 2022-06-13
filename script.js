@@ -5,7 +5,7 @@ const out = document.querySelector('.out');
 const btn = document.querySelector('.btn');
 const clearbtn = document.querySelector('.clearBtn');
 
-
+//push btn
 btn.addEventListener('click', () => {
    //get input value
     let outText = input.value;
