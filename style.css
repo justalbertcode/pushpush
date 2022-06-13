@@ -1,0 +1,8 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  background: url('https://images.unsplash.com/photo-1526412874539-dc64b232fecd?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTUxMTE3ODM&ixlib=rb-1.2.1&q=80') no-repeat center center / cover;
+}
